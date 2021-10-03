@@ -58,26 +58,31 @@ Maintained:
 
 ### Freeze
 * Freezes a user in place, being unable to move. Resolves hack clients as position is cached and any changes will be set back to the original freeze location. Works over IP and across sessions.
+  * [Freeze v1.0](https://github.com/Rozen4334/Freeze/releases/tag/v1.0)
   * [Source](https://github.com/Rozen4334/Freeze/tree/master/Freeze)
   * [Documentation](https://github.com/Rozen4334/Freeze#readme)
 
 ### CustomMessages
 * Introduces the ability to add custom commands with in-chat responses. Potential use for this plugin is in commands like `/discord` and `/vote`.
+  * [CustomMessages v1.0](https://github.com/Rozen4334/CustomMessages/releases/tag/v1.0)
   * [Source](https://github.com/Rozen4334/CustomMessages/tree/master/CustomMessages)
   * [Documentation](https://github.com/Rozen4334/CustomMessages#readme)
 
-### BuildMode
+### Buildmode
 * Creates a custom time for each user so it always stays day, and removes cavern backgrounds. Overwrites the TShock time command & introduces customizable buffs while in buildmode.
-  * [Source](https://github.com/Rozen4334/BuildMode/tree/master/BuildMode)
-  * [Documentation](https://github.com/Rozen4334/BuildMode#readme)
+  * [Buildmode v1.2](https://github.com/Rozen4334/Buildmode/releases/tag/v1.2)
+  * [Source](https://github.com/Rozen4334/BuildMode/tree/master/Buildmode)
+  * [Documentation](https://github.com/Rozen4334/Buildmode#readme)
 
 ### FindPermission
 * Finds permissions based on the command they're used by.
+  * [FinfdPermission v1.0](https://github.com/Rozen4334/FindPermission/releases/tag/v1.0)
   * [Source](https://github.com/Rozen4334/FindPermission/tree/master/FindPermission)
   * [Documentation](https://github.com/Rozen4334/FindPermission#readme)
 
 ### Booter
 * Adds quick kick responses by specifying keywords. Gives the ability to kick offending users in quicker fashion. Keywords are available at source readme.
+  * [Booter v1.0](https://github.com/Rozen4334/Booter/releases/tag/v1.0)
   * [Source](https://github.com/Rozen4334/Booter/tree/master/Booter)
   * [Documentation](https://github.com/Rozen4334/Booter#readme)
 
@@ -87,6 +92,7 @@ Maintained:
 * Created by: Nyx Studios
 * Maintained since: May 2020
 * Mass tile-editing plugin with a broad set of commands, permissions & configuration. Introduces schematics & many more features!
+  * [WorldEdit v2.0](https://github.com/Rozen4334/WorldEdit/releases/tag/v2.0)
   * [Source](https://github.com/Rozen4334/WorldEdit/tree/master/WorldEdit)
   * [Documentation](https://github.com/Rozen4334/WorldEdit#readme)
 
@@ -94,6 +100,7 @@ Maintained:
 * Created by: Andrio Celos
 * Maintained since: May 2020
 * Displays defined TShock regions by their borders.
+  * [RegionVision v1.0](https://github.com/Rozen4334/RegionVision/releases/tag/1.3)
   * [Source](https://github.com/Rozen4334/RegionVision/tree/master/RegionVision)
   * [Documentation](https://github.com/Rozen4334/RegionVision#readme)
 
@@ -101,6 +108,7 @@ Maintained:
 * Created by: Zaicon
 * Maintained since: February 2021
 * Gives you the ability to add custom aliases to defined TShock commands.
+  * [ShortCommands v2.0](https://github.com/Rozen4334/ShortCommands/releases/tag/v2.0)
   * [Source](https://github.com/Rozen4334/ShortCommands/tree/master/ShortCommands)
   * [Documentation](https://github.com/Rozen4334/ShortCommands#readme)
 
@@ -122,6 +130,7 @@ Maintained:
 * Created by: Veelnyr
 * Maintained since: February 2021
 * Adds a command to communicate with staff using `/s`. It also adds a stafflist command to display all users with the staffchat permission.
+  * [StaffChat v1.0.1](https://github.com/Rozen4334/StaffChat/releases/tag/v1.0.1)
   * [Source](https://github.com/Rozen4334/StaffChat/tree/master/StaffChat)
   * [Documentation](https://github.com/Rozen4334/StaffChat#readme)
 
@@ -136,5 +145,6 @@ Maintained:
 * Created by: mistzzt
 * Maintained since: April 2021
 * Adds the ability to set custom flags to execute functions upon users entering or leaving the specified region.
+  * [RegionTrigger v2.6](https://github.com/Rozen4334/RegionTrigger/releases/tag/v2.6)
   * [Source](https://github.com/Rozen4334/RegionTrigger/tree/master/RegionTrigger)
   * [Documentation](https://github.com/Rozen4334/RegionTrigger#readme)
