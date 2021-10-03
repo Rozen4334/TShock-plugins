@@ -6,25 +6,21 @@ Format:
 ```
 Personal:
 ### Name
-- Description
-- Version
-- Current release: link
-- Source code: link
-- Documentation: link
-- Used by
+* Description
+  * Release
+  * Source
+  * Documentation
 ```
 
 ```
 Maintained:
 ### Name
-- Created by:
-- Maintained by me since:
-- Description
-- Version
-- Current release: link
-- Source code: link
-- Documentation?: link
-- Used by
+* Created by:
+* Maintained since:
+* Description
+  * Release
+  * Source
+  * Documentation
 ```
 ##
 ## Plugins made & managed by me:
