@@ -25,7 +25,6 @@ Maintained:
 - Documentation?: link
 - Used by
 ```
-##
 
 ## Plugins made & managed by me:
 
