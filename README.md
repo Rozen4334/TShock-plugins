@@ -29,36 +29,44 @@ Maintained:
 ##
 ## Plugins made & managed by me:
 
-### ReportManager
-- Introduces ingame reports, warnings and mutes. Permissions are unique to both staff-only commands and regular commands.
-
-### ChatManager
-- Filters chat messages and joining users' names. Comes with a very broad configuration file. Configuration is explained at source.
 
 ### TerraBridge
-- Advanced Discord <> Ingame chat bridge that connects both platforms to communicate with eachother as well as execute commands and sync roles from ingame to discord! 
-- This plugin is private and usage can be requested through getting in contact with me privately. This is done to properly walk users through the setup process and avoid confusion.
+* Advanced Discord <> Ingame chat bridge that connects both platforms to communicate with eachother as well as execute commands and sync roles from ingame to discord! 
+  * This plugin is private and usage can be requested through getting in contact with me privately. This is done to properly walk users through the setup process and avoid confusion.
 
-### TPAllow
-- Minecraft inspired teleportation functions. Gives the ability to reject or accept teleport requests and ignore teleportation requests by default with the TShock implemented `/tpallow` command.
+### ReportManager
+* Introduces ingame reports, warnings and mutes. Permissions are unique to both staff-only commands and regular commands. 
+  * This plugin is private and usage can be requested through getting in contact with me privately. This is done to properly walk users through the setup process and avoid confusion.
+
+### ChatManager
+* Filters chat messages and joining users' names. Comes with a very broad configuration file. Configuration is explained at source.
+  * [ChatManager v1.2](https://github.com/Rozen4334/ChatManager/releases/tag/v1.2)
+  * [Source](https://github.com/Rozen4334/ChatManager/tree/master/ChatManager)
+  * [Documentation](https://github.com/Rozen4334/ChatManager#readme)
+
+### TPAccept
+* Minecraft inspired teleportation functions. Gives the ability to reject or accept teleport requests and ignore teleportation requests by default with the TShock implemented `/tpallow` command.
+  * [TPAccept v1.1](https://github.com/Rozen4334/TPAccept/releases/tag/v1.1)
+  * [Source](https://github.com/Rozen4334/TPAccept/tree/master/TPAccept)
+  * [Documentation](https://github.com/Rozen4334/TPAccept#readme)
 
 ### MapTP
-- Teleports you to a location on the map by simply double clicking!
+* Teleports you to a location on the map by simply double clicking!
 
 ### Freeze
-- Freezes a user in place, being unable to move. Resolves hack clients as position is cached and any changes will be set back to the original freeze location. Works over IP and across sessions.
+* Freezes a user in place, being unable to move. Resolves hack clients as position is cached and any changes will be set back to the original freeze location. Works over IP and across sessions.
 
 ### CustomMessages
-- Introduces the ability to add custom commands with in-chat responses. Potential use for this plugin is in commands like `/discord` and `/vote`.
+* Introduces the ability to add custom commands with in-chat responses. Potential use for this plugin is in commands like `/discord` and `/vote`.
 
 ### BuildMode
-- Creates a custom time for each user so it always stays day, and removes cavern backgrounds. Overwrites the TShock time command & introduces customizable buffs while in buildmode.
+* Creates a custom time for each user so it always stays day, and removes cavern backgrounds. Overwrites the TShock time command & introduces customizable buffs while in buildmode.
 
 ### FindPermission
-- Finds permissions based on the command they're used by.
+* Finds permissions based on the command they're used by.
 
 ### Booter
-- Adds quick kick responses by specifying keywords. Gives the ability to kick offending users in quicker fashion. Keywords are available at source readme.
+* Adds quick kick responses by specifying keywords. Gives the ability to kick offending users in quicker fashion. Keywords are available at source readme.
 
 ## Plugins made by others & now maintained by me.
 
