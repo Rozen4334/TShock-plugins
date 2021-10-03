@@ -10,9 +10,9 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 
 ### Public servers that use my plugins.
 
-* [terraria.one](https://terraria.one/) 
+* [Terraria One](https://terraria.one/) 
   * ` terraria.one - 7777 `
-* [Aurora-Gaming](https://https://aurora-gaming.org/)
+* [Aurora Gaming](https://https://aurora-gaming.org/)
   * ` t.aurora-gaming.org - 7777 `
 
 *If you want your server listed above, leave a pull request with the changes included!*
