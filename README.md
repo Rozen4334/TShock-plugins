@@ -11,7 +11,7 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 ### Public servers that use my plugins.
 
 * [terraria.one](https://terraria.one/) 
-  * ` terraria.one - 7777
+  * ` terraria.one - 7777 `
 * [Aurora-Gaming](https://https://aurora-gaming.org/)
   * ` t.aurora-gaming.org - 7777 `
 
