@@ -63,41 +63,41 @@ Maintained:
 ## Plugins made by others & now maintained by me.
 
 ### WorldEdit
-- Created by: Nyx Studios
-- Maintained since: May 2020
-- Mass tile-editing plugin with a broad set of commands, permissions & configuration. Introduces schematics & many more features!
+* Created by: Nyx Studios
+* Maintained since: May 2020
+  * Mass tile-editing plugin with a broad set of commands, permissions & configuration. Introduces schematics & many more features!
 
 ### RegionVision
-- Created by: Andrio Celos
-- Maintained since: May 2020
-- Displays defined TShock regions by their borders.
+* Created by: Andrio Celos
+* Maintained since: May 2020
+  * Displays defined TShock regions by their borders.
 
 ### ShortCommands
-- Created by: Zaicon
-- Maintained since: February 2021
-- Gives you the ability to add custom aliases to defined TShock commands.
+* Created by: Zaicon
+* Maintained since: February 2021
+  * Gives you the ability to add custom aliases to defined TShock commands.
 
 ### PermaBuffsV2
-- Created by: Zaicon
-- Maintained since: February 2021
-- Adds permanent buffs for specific users. Also gives the ability to manage buffs for other users and manually remove/add them.
+* Created by: Zaicon
+* Maintained since: February 2021
+  * Adds permanent buffs for specific users. Also gives the ability to manage buffs for other users and manually remove/add them.
 
 ### AutoBroadcast
-- Created by: Zaicon
-- Maintained since: February 2021
-- Automatically broadcasts messages in chat every (specified) seconds. Also gives the ability to execute commands as console user automatically.
+* Created by: Zaicon
+* Maintained since: February 2021
+  * Automatically broadcasts messages in chat every (specified) seconds. Also gives the ability to execute commands as console user automatically.
 
 ### StaffChat
-- Created by: Veelnyr
-- Maintained since: February 2021
-- Adds a command to communicate with staff using `/s`. It also adds a stafflist command to display all users with the staffchat permission.
+* Created by: Veelnyr
+* Maintained since: February 2021
+  * Adds a command to communicate with staff using `/s`. It also adds a stafflist command to display all users with the staffchat permission.
 
 ### CloneNotify
-- Created by: Zaicon
-- Maintained since: February 2021
-- Introduces the ability to check with what names a user has joined, both across IP as well as UUID. Clones are stashed in database. This plugin only works with MySQL. 
+* Created by: Zaicon
+* Maintained since: February 2021
+  * Introduces the ability to check with what names a user has joined, both across IP as well as UUID. Clones are stashed in database. This plugin only works with MySQL. 
 
 ### RegionTrigger
-- Created by: mistzzt
-- Maintained since: April 2021
-- Adds the ability to set custom flags to execute functions upon users entering or leaving the specified region.
+* Created by: mistzzt
+* Maintained since: April 2021
+  * Adds the ability to set custom flags to execute functions upon users entering or leaving the specified region.
