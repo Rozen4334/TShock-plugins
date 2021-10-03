@@ -15,6 +15,11 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 * [Aurora-Gaming](https://https://aurora-gaming.org/)
   * ` t.aurora-gaming.org - 7777 `
 
+## Find me on other platforms!
+
+* [Visit my website](https://rozen.one)
+* [Join my Discord](https://pixelgalactic.com/discord)
+
 *If you want your server listed above, leave a pull request with the changes included!*
 
 ## Plugins made & managed by me:
