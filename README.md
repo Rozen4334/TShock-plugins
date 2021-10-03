@@ -4,9 +4,9 @@ A collection of all my public plugins, including source, documentation & release
 ## Available for all TShock servers!
 All of the plugins featured below are created for [TShock for Terraria](https://github.com/Pryaxis/TShock), a Terraria server API managed by [Pryaxis](https://github.com/pryaxis)
 
-* [Download v4.5.5](https://github.com/Pryaxis/TShock/releases/tag/v4.5.5)
-* [How to use](https://tshock.readme.io/docs/getting-started)
-* [Follow TShock](https://twitter.com/Pryaxis)
+* 🎫 [Download v4.5.5](https://github.com/Pryaxis/TShock/releases/tag/v4.5.5)
+* 📑 [How to use](https://tshock.readme.io/docs/getting-started)
+* 🐦 [Follow TShock](https://twitter.com/Pryaxis)
 
 ### Public servers that use my plugins.
 
@@ -15,12 +15,12 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 * [Aurora-Gaming](https://https://aurora-gaming.org/)
   * ` t.aurora-gaming.org - 7777 `
 
+*If you want your server listed above, leave a pull request with the changes included!*
+
 ## Find me on other platforms!
 
-* [Visit my website](https://rozen.one)
-* [Join my Discord](https://pixelgalactic.com/discord)
-
-*If you want your server listed above, leave a pull request with the changes included!*
+* 💻 [Visit my website](https://rozen.one)
+* 🔗 [Join my Discord](https://pixelgalactic.com/discord)
 
 ## Plugins made & managed by me:
 
