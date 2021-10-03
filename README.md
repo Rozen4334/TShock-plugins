@@ -2,6 +2,7 @@
 A collection of all my public plugins, current features &amp; upcoming projects!
 
 ##
+
 ```
 Personal:
 ### Name
@@ -25,7 +26,7 @@ Maintained:
 - Documentation?: link
 - Used by
 ```
-
+##
 ## Plugins made & managed by me:
 
 ### ReportManager
