@@ -1,28 +1,22 @@
 # TShock-plugins
-A collection of all my public plugins, current features &amp; upcoming projects!
+A collection of all my public plugins, including source, documentation & releases! All plugins listed are verified by the TShock team and are safe to use.
 
-##
-Format:
-```
-Personal:
-### Name
-* Description
-  * Release
-  * Source
-  * Documentation
-```
+## Available for all TShock servers!
+All of the plugins featured below are created for [TShock for Terraria](https://github.com/Pryaxis/TShock), a Terraria server API managed by [Pryaxis](https://github.com/pryaxis)
 
-```
-Maintained:
-### Name
-* Created by:
-* Maintained since:
-* Description
-  * Release
-  * Source
-  * Documentation
-```
-##
+* [Download v4.5.5](https://github.com/Pryaxis/TShock/releases/tag/v4.5.5)
+* [How to use](https://tshock.readme.io/docs/getting-started)
+* [Follow TShock](https://twitter.com/Pryaxis)
+
+### Public servers that use my plugins.
+
+* [terraria.one](https://terraria.one/) 
+  * ` terraria.one - 7777
+* [Aurora-Gaming](https://https://aurora-gaming.org/)
+  * ` t.aurora-gaming.org - 7777 `
+
+*If you want your server listed above, leave a pull request with the changes included!*
+
 ## Plugins made & managed by me:
 
 
