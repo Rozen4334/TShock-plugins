@@ -1,14 +1,32 @@
 # TShock-plugins
 A collection of all my public plugins, current features &amp; upcoming projects!
 
-## ReportManager
+## Plugins made & managed by me:
 
-## ChatManager
+### ReportManager
 
-## WorldEdit
+### ChatManager
 
-## TPAllow
+### WorldEdit
 
-## MapTP
+### TPAllow
 
-## 
+### MapTP
+
+### Freeze
+
+### CustomMessages
+
+### BuildMode
+
+### FindPermission
+
+### Booter
+
+## Plugins made by others & now maintained by me.
+
+### ShortCommands
+
+### RegionVision
+
+### RegionTrigger
