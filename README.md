@@ -24,6 +24,8 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 * 💻 [Visit my website](https://rozen.one)
 * 🔗 [Join my Discord](https://pixelgalactic.com/discord)
 
+----
+
 ## Plugins made & managed by me:
 
 
