@@ -1,6 +1,28 @@
 # TShock-plugins
 A collection of all my public plugins, current features &amp; upcoming projects!
 
+```
+Personal:
+### Name
+Description
+Version
+Current release: link
+Source code: link
+Documentation: link
+Used by
+
+Maintained:
+### Name
+Created by:
+Maintained by me since:
+Description
+Version
+Current release: link
+Source code: link
+Documentation?: link
+Used by
+
+```
 ## Plugins made & managed by me:
 
 ### ReportManager
@@ -8,6 +30,8 @@ A collection of all my public plugins, current features &amp; upcoming projects!
 ### ChatManager
 
 ### WorldEdit
+
+### TerraBridge
 
 ### TPAllow
 
@@ -30,3 +54,11 @@ A collection of all my public plugins, current features &amp; upcoming projects!
 ### RegionVision
 
 ### RegionTrigger
+
+### PermaBuffsV2
+
+### AutoBroadcast
+
+### StaffChat
+
+### CloneNotify
