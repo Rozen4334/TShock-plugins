@@ -75,7 +75,7 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 
 ### FindPermission
 * Finds permissions based on the command they're used by.
-  * 💾 [FinfdPermission v1.0](https://github.com/Rozen4334/FindPermission/releases/tag/v1.0)
+  * 💾 [FindPermission v1.0](https://github.com/Rozen4334/FindPermission/releases/tag/v1.0)
   * 📚 [Source](https://github.com/Rozen4334/FindPermission/tree/master/FindPermission)
   * 📜 [Documentation](https://github.com/Rozen4334/FindPermission#readme)
 
