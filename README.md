@@ -1,7 +1,10 @@
 ----
 
 # TShock-plugins
-A collection of all my public plugins, including source, documentation & releases! All plugins listed are verified by the TShock team and are safe to use.
+A collection of all my public plugins, including source, documentation & releases! 
+
+#### ⚠️ No plugins present here lead to direct download links. The `[.. v1.0]` tag only leads to the release page on the plugin repository itself.
+While many like me have no malicious intent, downloading dll's from the internet is scary. Do not do this if you do not trust the owner or source of the download!
 
 ## Available for all TShock servers!
 All of the plugins featured below are created for [TShock for Terraria](https://github.com/Pryaxis/TShock), a Terraria server API managed by [Pryaxis](https://github.com/pryaxis)
