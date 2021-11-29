@@ -18,7 +18,7 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 
 ### Public servers that use my plugins.
 
-* [Terraria One](https://terraria.one/) 
+* [Terraria One](https://terraria.one/)
   * ` terraria.one - 7777 `
 * [Aurora Gaming](https://https://aurora-gaming.org/)
   * ` t.aurora-gaming.org - 7777 `
@@ -34,20 +34,14 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 
 ## Plugins made & managed by me:
 
-
-### TerraBridge
-* Advanced Discord <> Ingame chat bridge that connects both platforms to communicate with eachother as well as execute commands and sync roles from ingame to discord! 
-  * ⚠ This plugin is private and usage can be requested through getting in contact with me privately. This is done to properly walk users through the setup process and avoid confusion.
-
-### ReportManager
-* Introduces ingame reports, warnings and mutes. Permissions are unique to both staff-only commands and regular commands. 
-  * ⚠ This plugin is private and usage can be requested through getting in contact with me privately. This is done to properly walk users through the setup process and avoid confusion.
-
-### ChatManager
-* Filters chat messages and joining users' names. Comes with a very broad configuration file. Configuration is explained at source.
-  * 💾 [ChatManager v1.2](https://github.com/Rozen4334/ChatManager/releases/tag/v1.2)
-  * 📚 [Source](https://github.com/Rozen4334/ChatManager/tree/master/ChatManager)
-  * 📜 [Documentation](https://github.com/Rozen4334/ChatManager#readme)
+### Terraria.One
+These plugins are not available on my repository, they are instead present at the Terraria.One organizaition.
+* ReportManager
+  * [Source](https://github.com/Terraria-One/RegionManager)
+* ChatManager
+  * [Source](https://github.com/Terraria-One/ChatManager)
+* ReportManager
+  * [Source](https://github.com/Terraria-One/ReportManager)
 
 ### TPAccept
 * Minecraft inspired teleportation functions. Gives the ability to reject or accept teleport requests and ignore teleportation requests by default with the TShock implemented `/tpallow` command.
