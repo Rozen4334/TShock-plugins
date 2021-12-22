@@ -35,7 +35,7 @@ All of the plugins featured below are created for [TShock for Terraria](https://
 ## Plugins made & managed by me:
 
 ### Terraria.One
-These plugins are not available on my repository, they are instead present at the Terraria.One organizaition.
+These plugins are not available on my repository, they are instead present at the Terraria.One organization.
 * ReportManager
   * [Source](https://github.com/Terraria-One/RegionManager)
 * ChatManager
